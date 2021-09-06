@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-07T00:44:51 GMT+02:00" name="Default suite" finished-at="2021-09-07T00:44:51 GMT+02:00" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2021-09-07T00:44:51 GMT+02:00" name="Default test" finished-at="2021-09-07T00:44:51 GMT+02:00" duration-ms="55">
+      <class name="com.google.seleinum.test.TestCalac">
+        <test-method signature="test_add()[pri:0, instance:com.google.seleinum.test.TestCalac@647fd8ce]" started-at="2021-09-07T00:44:51 GMT+02:00" name="test_add" finished-at="2021-09-07T00:44:51 GMT+02:00" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_add -->
+        <test-method signature="test_div()[pri:0, instance:com.google.seleinum.test.TestCalac@647fd8ce]" started-at="2021-09-07T00:44:51 GMT+02:00" name="test_div" finished-at="2021-09-07T00:44:51 GMT+02:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_div -->
+        <test-method signature="test_mul()[pri:0, instance:com.google.seleinum.test.TestCalac@647fd8ce]" started-at="2021-09-07T00:44:51 GMT+02:00" name="test_mul" finished-at="2021-09-07T00:44:51 GMT+02:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_mul -->
+        <test-method signature="test_sub()[pri:0, instance:com.google.seleinum.test.TestCalac@647fd8ce]" started-at="2021-09-07T00:44:51 GMT+02:00" name="test_sub" finished-at="2021-09-07T00:44:51 GMT+02:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_sub -->
+      </class> <!-- com.google.seleinum.test.TestCalac -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
