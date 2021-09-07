@@ -41,7 +41,8 @@ public class TestCalac {
 		assertEquals(calc.div(6, 2), 3);
 		assertEquals(calc.div(6, -6), -1);
 		assertEquals(calc.div(-6, -6), 1);
-		calc.div(10, 0);
+//              negative test case
+                calc.div(10, 0);
 		
 	}
 	
